@@ -81,7 +81,7 @@ MonoBehaviour:
   m_Text: "You must remove all the blocks like in a regular Breakout, but there are
     some new type of blocks:\n1. Standard. Behaves in the normal way\r;\n2. Bonus.
     Counts for double points when hit by ball\r;\n3. Freezer. Makes the paddle unmovable
-    for a short period of time;\n4. Speedup. Makes all balls in play move at twice
+    for a short period of time;\n4. Speedup. Makes all balls in game move at twice
     their current speed for a short period of\r time."
 --- !u!1 &478187341246653944
 GameObject:
