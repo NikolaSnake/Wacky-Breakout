@@ -1,0 +1,2 @@
+PaddleMoveUnitsPerSecond,BallImpulseForce,BallLifeSeconds,MinSpawnDelay,MaxSpawnDelay,BallsPerGame,StandardBlockPoints,BonusBlockPoints,EffectBlockPoints,StandardBlockProbability,BonusBlockProbability,FreezerBlockProbability,SpeedupBlockProbability,FreezerSeconds,SpeedupFactor,SpeedupSeconds,EasyBallImpulseForce,MediumBallImpulseForce,HardBallImpulseForce,EasyMinSpawnSeconds,MediumMinSpawnSeconds,HardMinSpawnSeconds,EasyMaxSpawnSeconds,MediumMaxSpawnSeconds,HardMaxSpawnSeconds
+10,200,10,5,10,5,1,2,5,70,20,5,5,2,2,2,200,300,400,5,3,2,10,7,5
